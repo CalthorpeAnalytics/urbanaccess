@@ -32,7 +32,7 @@ setup(
         'pandas>=0.20.3',
         'numpy>=1.13.1',
         'osmnet==0.1.4',
-        'pandana>=0.4.0.1',
+        'pandana>=0.4.0',
         'matplotlib>=2.0.2',
         'geopy>=1.11.0',
         'pyyaml>=3.11',
