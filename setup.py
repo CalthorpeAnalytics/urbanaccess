@@ -14,7 +14,7 @@ with open('README.md', 'r') as f:
 
 setup(
     name='urbanaccess',
-    version='0.2',
+    version='0.2.1',
     license='AGPL',
     description='A tool for creating GTFS transit and OSM pedestrian networks for use in Pandana accessibility analyses.',
     long_description=long_description,
